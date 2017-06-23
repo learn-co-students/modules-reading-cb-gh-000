@@ -1,3 +1,4 @@
+__END__
 describe 'Dance module' do
   let(:dummy_class) { Class.new { include Dance }.new }
 

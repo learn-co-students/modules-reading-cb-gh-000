@@ -1,3 +1,4 @@
+__END__
 describe 'Dancer' do
   let(:dancer) {Dancer.new('Anna')}
 
