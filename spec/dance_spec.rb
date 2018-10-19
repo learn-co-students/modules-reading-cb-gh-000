@@ -1,3 +1,4 @@
+=begin
 describe 'Dance module' do
   let(:dummy_class) { Class.new { include Dance }.new }
 
@@ -17,3 +18,4 @@ describe 'Dance module' do
     expect(dummy_class.take_a_bow).to eq("Thank you, thank you. It was a pleasure to dance for you all.")
   end
 end
+=end
