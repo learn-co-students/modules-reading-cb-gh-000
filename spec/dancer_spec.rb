@@ -1,3 +1,4 @@
+=begin
 describe 'Dancer' do
   let(:dancer) {Dancer.new('Anna')}
 
@@ -13,3 +14,5 @@ describe 'Dancer' do
     expect(Dancer).to have_class_dance_methods
   end
 end
+
+=end

@@ -1,3 +1,4 @@
+=begin
 describe 'Kid' do
   let(:kid) {Kid.new("Pat")}
 
@@ -13,3 +14,4 @@ describe 'Kid' do
     expect(Kid).to have_class_dance_methods
   end
 end
+=end
