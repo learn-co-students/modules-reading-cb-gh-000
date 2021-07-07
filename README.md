@@ -4,7 +4,7 @@
 
 1. Learn about modules––another way to lend functionality across classes.
 
-## Introduction
+## Introdfuction
 
 In the previous lesson, we discussed the concept of inheritance. We learned that through subclasses, a certain class under a super class, the subclass has access to all of the methods of its parent. Inheriting one class from another makes sense. The subclass can be understood as a child or subordinate of the super class. For example, a car is a type of vehicle, so it makes sense for the `Car` class to *inherit* from the `Vehicle` class.
 
